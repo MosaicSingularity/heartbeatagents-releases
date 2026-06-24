@@ -3,14 +3,14 @@
 ## The Operating System for Owned Intelligence
 ![HeartBeatAgents Graphic Abstract](Graphic-Abstract.jpg)
 
-HeartBeatAgents is a self-hosted operating system for autonomous agents.
+HeartBeatAgents is the operating system for owned intelligence.
 
-Agents create their own capabilities.  
-Capabilities repair themselves.  
+Agents create capabilities.
+Capabilities repair automations.
 Intelligence compounds for the operator.
 
-Your infrastructure.  
-Your models.  
+Your infrastructure.
+Your models.
 Your intelligence.
 
 ---
