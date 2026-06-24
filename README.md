@@ -1,7 +1,7 @@
 # HeartBeatAgents
 
 ## The Operating System for Owned Intelligence
-![HeartBeatAgents Graphic Abstract](Graphic Abstract.jpg)
+![HeartBeatAgents Graphic Abstract](Graphic-Abstract.jpg)
 
 HeartBeatAgents is a self-hosted operating system for autonomous agents.
 
